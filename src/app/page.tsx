@@ -58,10 +58,17 @@ const WHATSAPP_NUMBER = '087781658231'
 
 // Motor data
 const hondaMotors = [
-  { name: 'Honda Vario 160', price: 'Rp 750.000/bln', image: '/images/honda-motor.png' },
-  { name: 'Honda PCX 160', price: 'Rp 850.000/bln', image: '/images/honda-motor.png' },
-  { name: 'Honda Beat Street', price: 'Rp 650.000/bln', image: '/images/honda-motor.png' },
-  { name: 'Honda Scoopy', price: 'Rp 680.000/bln', image: '/images/honda-motor.png' },
+  { name: 'Honda Vario 125', price: 'Rp 680.000/bln', image: '/images/vario-125.webp' },
+  { name: 'Honda Vario 125 Street', price: 'Rp 700.000/bln', image: '/images/vario-125-street.webp' },
+  { name: 'Honda Vario 160', price: 'Rp 750.000/bln', image: '/images/vario-160.webp' },
+  { name: 'Honda Beat', price: 'Rp 580.000/bln', image: '/images/beat.webp' },
+  { name: 'Honda Beat Street', price: 'Rp 620.000/bln', image: '/images/beat-street.webp' },
+  { name: 'Honda Scoopy', price: 'Rp 650.000/bln', image: '/images/scopy.webp' },
+  { name: 'Honda Genio', price: 'Rp 600.000/bln', image: '/images/genio.webp' },
+  { name: 'Honda ADV 160', price: 'Rp 880.000/bln', image: '/images/adv-160.webp' },
+  { name: 'Honda PCX 160', price: 'Rp 850.000/bln', image: '/images/pcx-160.webp' },
+  { name: 'Honda Forza', price: 'Rp 1.200.000/bln', image: '/images/forza.webp' },
+  { name: 'Honda Stylo 160', price: 'Rp 780.000/bln', image: '/images/stylo-160.webp' },
 ]
 
 const yamahaMotors = [
