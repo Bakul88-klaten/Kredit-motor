@@ -68,7 +68,7 @@ const hondaMotors = [
   { name: 'Honda ADV 160', price: 'Rp 880.000/bln', image: '/images/adv-160.webp' },
   { name: 'Honda PCX 160', price: 'Rp 850.000/bln', image: '/images/pcx-160.webp' },
   { name: 'Honda Forza', price: 'Rp 1.200.000/bln', image: '/images/forza.webp' },
-  { name: 'Honda Stylo 160', price: 'Rp 780.000/bln', image: '/images/stylo-160.webp' },
+  { name: 'Honda Stylo 160', price: 'Rp 780.000/bln', image: '/images/stylo.webp' },
 ]
 
 const yamahaMotors = [
